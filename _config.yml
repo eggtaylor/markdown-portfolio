@@ -1,5 +1,6 @@
 ---
 title: Egg!
 theme: jekyll-theme-primer
-url: "https://github.com/eggtaylor/markdown-portfolio"
+url: https://github.com/eggtaylor/markdown-portfolio
+baseurl: /markdown-portfolio
 ---
