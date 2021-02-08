@@ -8,17 +8,23 @@
 #### My *favourite* geological eras
  1.   Archean eon
     1.   Eoarchean
-    2.   Paleoarchean
-    3.   Mesoarchean
-    4.   Neoarchean
+    1.   Paleoarchean
+    1.   Mesoarchean
+    1.   Neoarchean
  2.   Proterozoic eon
     1.   Paleoproterozoic
-    2.   Mesoproterozoic
-    3.   Neoproterozoic
+    1.   Mesoproterozoic
+    1.   Neoproterozoic
  3.   Phanerozoic eon
     1.   Paleozoic
-    2.   Mesozoic
-    3.   Cenozoic
+    1.   Mesozoic
+    1.   Cenozoic
+
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
 
  * Paleozoic era periods
    * Cambrian
