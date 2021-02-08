@@ -1,10 +1,10 @@
 #### My *favourite* things :blush:
-:smiley: some people
-:heart_eyes: many other living things
-:grin: compost
-:kissing_heart: springtails and rotifers
-:ocean: the entire planet
-:heart::heart::+1::sparkles::tada:
+ :smiley: some people
+ :heart_eyes: many other living things
+ :grin: compost
+ :kissing_heart: springtails and rotifers
+ :ocean: the entire planet
+ :heart: :heart: :+1: :sparkles: :tada:
 #### My *favourite* geological eras
 1. Archean eon
   1. Eoarchean
